@@ -1,0 +1,8 @@
+Ipykernel
+pandas
+numpy
+matplotlib
+statsmodels
+tqdm
+nbconvert
+
